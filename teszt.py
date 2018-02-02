@@ -1,3 +1,3 @@
 msg = "Teszt"
 print(msg)
-teszted
+print(4+4)
